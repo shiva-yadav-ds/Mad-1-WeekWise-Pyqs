@@ -1,0 +1,196 @@
+{
+  "weeks": [
+    {
+      "id": 1,
+      "topic": "Web foundations and performance",
+      "count": 72,
+      "summary": "72 representative questions mapped to Week 1, with complete statements, options, code images and diagrams. Repeated patterns and numeric-only variants are excluded; distinct concepts and edge cases are retained.",
+      "topics": [
+        "Client-server/P2P architecture, MVC and protocols",
+        "URLs, networks, bandwidth and latency",
+        "Application and algorithm performance"
+      ],
+      "guide": [
+        "Identify the concept tested and read all supplied code and data before answering.",
+        "Trace requests, state changes, database operations and template output using the stated assumptions.",
+        "Attempt each question before checking its supplied answer key."
+      ]
+    },
+    {
+      "id": 2,
+      "topic": "HTML, CSS and information representation",
+      "count": 86,
+      "summary": "86 representative questions mapped to Week 2, with complete statements, options, code images and diagrams. Repeated patterns and numeric-only variants are excluded; distinct concepts and edge cases are retained.",
+      "topics": [
+        "HTML structure and CSS selectors/cascade/layout",
+        "Markup and information representation",
+        "Character encodings and number representations"
+      ],
+      "guide": [
+        "Identify the concept tested and read all supplied code and data before answering.",
+        "Trace requests, state changes, database operations and template output using the stated assumptions.",
+        "Attempt each question before checking its supplied answer key."
+      ]
+    },
+    {
+      "id": 3,
+      "topic": "Presentation layer and Jinja2",
+      "count": 106,
+      "summary": "106 representative questions mapped to Week 3, with complete statements, options, code images and diagrams. Repeated patterns and numeric-only variants are excluded; distinct concepts and edge cases are retained.",
+      "topics": [
+        "Python formatting and command-line inputs supporting views",
+        "Jinja2 expressions, filters, loops and inheritance",
+        "Dynamic HTML generation"
+      ],
+      "guide": [
+        "Identify the concept tested and read all supplied code and data before answering.",
+        "Trace requests, state changes, database operations and template output using the stated assumptions.",
+        "Attempt each question before checking its supplied answer key."
+      ]
+    },
+    {
+      "id": 4,
+      "topic": "Databases and SQLAlchemy models",
+      "count": 96,
+      "summary": "96 representative questions mapped to Week 4, with complete statements, options, code images and diagrams. Repeated patterns and numeric-only variants are excluded; distinct concepts and edge cases are retained.",
+      "topics": [
+        "SQLite, SQL and database design",
+        "SQLAlchemy models, keys and relationships",
+        "Queries, transactions, indexing and migrations"
+      ],
+      "guide": [
+        "Identify the concept tested and read all supplied code and data before answering.",
+        "Trace requests, state changes, database operations and template output using the stated assumptions.",
+        "Attempt each question before checking its supplied answer key."
+      ]
+    },
+    {
+      "id": 5,
+      "topic": "Flask controllers and routing",
+      "count": 148,
+      "summary": "148 representative questions mapped to Week 5, with complete statements, options, code images and diagrams. Repeated patterns and numeric-only variants are excluded; distinct concepts and edge cases are retained.",
+      "topics": [
+        "Flask application setup and routes",
+        "HTTP request/response handling and redirects",
+        "Connecting templates and models to controllers"
+      ],
+      "guide": [
+        "Identify the concept tested and read all supplied code and data before answering.",
+        "Trace requests, state changes, database operations and template output using the stated assumptions.",
+        "Attempt each question before checking its supplied answer key."
+      ]
+    },
+    {
+      "id": 6,
+      "topic": "APIs and REST",
+      "count": 62,
+      "summary": "62 representative questions mapped to Week 6, with complete statements, options, code images and diagrams. Repeated patterns and numeric-only variants are excluded; distinct concepts and edge cases are retained.",
+      "topics": [
+        "REST architectural constraints and resource design",
+        "API methods, status codes and JSON exchange",
+        "Flask-RESTful resources and request parsing"
+      ],
+      "guide": [
+        "Identify the concept tested and read all supplied code and data before answering.",
+        "Trace requests, state changes, database operations and template output using the stated assumptions.",
+        "Attempt each question before checking its supplied answer key."
+      ]
+    },
+    {
+      "id": 7,
+      "topic": "Backend systems and application state",
+      "count": 19,
+      "summary": "19 representative questions mapped to Week 7, with complete statements, options, code images and diagrams. Repeated patterns and numeric-only variants are excluded; distinct concepts and edge cases are retained.",
+      "topics": [
+        "Backend memory/storage and server processing",
+        "Application state, cookies and sessions",
+        "Caching, background processing and service integration"
+      ],
+      "guide": [
+        "Identify the concept tested and read all supplied code and data before answering.",
+        "Trace requests, state changes, database operations and template output using the stated assumptions.",
+        "Attempt each question before checking its supplied answer key."
+      ]
+    },
+    {
+      "id": 8,
+      "topic": "Application frontend and interaction",
+      "count": 49,
+      "summary": "49 representative questions mapped to Week 8, with complete statements, options, code images and diagrams. Repeated patterns and numeric-only variants are excluded; distinct concepts and edge cases are retained.",
+      "topics": [
+        "Forms, input handling and validation",
+        "JavaScript, DOM and browser events",
+        "Frontend workflows and client-side interaction"
+      ],
+      "guide": [
+        "Identify the concept tested and read all supplied code and data before answering.",
+        "Trace requests, state changes, database operations and template output using the stated assumptions.",
+        "Attempt each question before checking its supplied answer key."
+      ]
+    },
+    {
+      "id": 9,
+      "topic": "Application security",
+      "count": 10,
+      "summary": "10 representative questions mapped to Week 9, with complete statements, options, code images and diagrams. Repeated patterns and numeric-only variants are excluded; distinct concepts and edge cases are retained.",
+      "topics": [
+        "Authentication and authorization",
+        "Passwords, encryption and transport security",
+        "Injection, XSS, CSRF and browser security policies"
+      ],
+      "guide": [
+        "Identify the concept tested and read all supplied code and data before answering.",
+        "Trace requests, state changes, database operations and template output using the stated assumptions.",
+        "Attempt each question before checking its supplied answer key."
+      ]
+    },
+    {
+      "id": 10,
+      "topic": "Testing and debugging",
+      "count": 43,
+      "summary": "43 representative questions mapped to Week 10, with complete statements, options, code images and diagrams. Repeated patterns and numeric-only variants are excluded; distinct concepts and edge cases are retained.",
+      "topics": [
+        "Unit, integration, system and regression tests",
+        "Pytest and Flask test clients",
+        "Debugging, logging and test results"
+      ],
+      "guide": [
+        "Identify the concept tested and read all supplied code and data before answering.",
+        "Trace requests, state changes, database operations and template output using the stated assumptions.",
+        "Attempt each question before checking its supplied answer key."
+      ]
+    },
+    {
+      "id": 11,
+      "topic": "HTML evolution and accessibility",
+      "count": 12,
+      "summary": "12 representative questions mapped to Week 11, with complete statements, options, code images and diagrams. Repeated patterns and numeric-only variants are excluded; distinct concepts and edge cases are retained.",
+      "topics": [
+        "HTML5 and evolving web capabilities",
+        "Semantic web and accessibility principles",
+        "Modern browser APIs and multimedia"
+      ],
+      "guide": [
+        "Identify the concept tested and read all supplied code and data before answering.",
+        "Trace requests, state changes, database operations and template output using the stated assumptions.",
+        "Attempt each question before checking its supplied answer key."
+      ]
+    },
+    {
+      "id": 12,
+      "topic": "Deployment and production workflows",
+      "count": 22,
+      "summary": "22 representative questions mapped to Week 12, with complete statements, options, code images and diagrams. Repeated patterns and numeric-only variants are excluded; distinct concepts and edge cases are retained.",
+      "topics": [
+        "Hosting, WSGI and server environments",
+        "Git, dependencies and deployment workflows",
+        "CI/CD, production configuration and scaling"
+      ],
+      "guide": [
+        "Identify the concept tested and read all supplied code and data before answering.",
+        "Trace requests, state changes, database operations and template output using the stated assumptions.",
+        "Attempt each question before checking its supplied answer key."
+      ]
+    }
+  ]
+}
